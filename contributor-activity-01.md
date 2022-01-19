@@ -134,3 +134,7 @@ if __name__ == '__main__':
 2. 对于为 pytest 增加的测试用例，可以通过 `python tests/run_tests.py -k "test_mpm99"` 来执行测试。
 
 3. 对于视频生成脚本，可以通过 `python tests/python/examples/simulation/test_mpm99.py output_mpm99` 执行并在 `output_mpm99` 目录下查看生成的视频。
+
+## 附录
+
+[Taichi 贡献者指南](https://docs.taichi.graphics/lang/articles/contribution/contributor_guide)
