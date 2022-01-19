@@ -1,6 +1,4 @@
-# 一起成为 Taichi contributors 第 1 期活动指南
-
-This article contains Chinese step-by-step guidelines of a community activity targeting new Taichi contributors. The activity basically centers around this [issue](https://github.com/taichi-dev/taichi/issues/3580).
+# 一起成为 Taichi contributors 第 1 期活动中文指南
 
 ## 本期主题：在 Taichi 的 CI/CD 中添加对示例程序的测试
 
