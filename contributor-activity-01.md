@@ -2,7 +2,7 @@
 
 ## 本期主题：在 Taichi 的 CI/CD 中添加对示例程序的测试
 
-对很多小伙伴来说，Taichi 的[示例程序](https://github.com/taichi-dev/taichi/tree/master/python/taichi/examples)是学习 Taichi 的极佳资源。然而，由于 Taichi 目前仍处在快速迭代的状态，偶尔会出现由于使用的语法或 API 行为发生变化导致示例程序不可用的情况，这会给学习 Taichi 的小伙伴带来困扰。为了尽可能避免这种情况的发生，我们希望能[在 Taichi 的 CI/CD 中添加对这些示例程序的测试](https://github.com/taichi-dev/taichi/issues/3580)。
+对很多小伙伴来说，Taichi 的[示例程序](https://github.com/taichi-dev/taichi/tree/master/python/taichi/examples)是学习 Taichi 的极佳资源。然而，由于 Taichi 目前仍处在快速迭代的状态，偶尔会出现由于使用的语法或 API 行为发生变化导致示例程序不可用的情况，这会给学习 Taichi 的小伙伴带来困扰。为了尽可能避免这种情况的发生，我们希望能在 Taichi 的 CI/CD 中添加对这些示例程序的测试（[Issue #3580](https://github.com/taichi-dev/taichi/issues/3580)）。
 
 Taichi 的示例程序主要分为以下两类：
 - API 用法的简单示例，通常会输出一些确定的计算结果；
