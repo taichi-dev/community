@@ -1,10 +1,10 @@
 # 一起成为 Taichi contributors 第 1 期活动指南
 
-This article contains Chinese step-by-step guidelines of a community activity targeting new Taichi contributors. The activity basically centers around this ![issue](https://github.com/taichi-dev/taichi/issues/3580).
+This article contains Chinese step-by-step guidelines of a community activity targeting new Taichi contributors. The activity basically centers around this [issue](https://github.com/taichi-dev/taichi/issues/3580).
 
 ## 本期主题：在 Taichi 的 CI/CD 中添加对示例程序的测试
 
-对很多小伙伴来说，Taichi 的![示例程序](https://github.com/taichi-dev/taichi/tree/master/python/taichi/examples)是学习 Taichi 的极佳资源。然而，由于 Taichi 目前仍处在快速迭代的状态，偶尔会出现由于使用的语法或 API 行为发生变化导致示例程序不可用的情况，这会给学习 Taichi 的小伙伴带来困扰。为了尽可能避免这种情况的发生，我们希望能![在 Taichi 的 CI/CD 中添加对这些示例程序的测试](https://github.com/taichi-dev/taichi/issues/3580)。
+对很多小伙伴来说，Taichi 的[示例程序](https://github.com/taichi-dev/taichi/tree/master/python/taichi/examples)是学习 Taichi 的极佳资源。然而，由于 Taichi 目前仍处在快速迭代的状态，偶尔会出现由于使用的语法或 API 行为发生变化导致示例程序不可用的情况，这会给学习 Taichi 的小伙伴带来困扰。为了尽可能避免这种情况的发生，我们希望能[在 Taichi 的 CI/CD 中添加对这些示例程序的测试](https://github.com/taichi-dev/taichi/issues/3580)。
 
 Taichi 的示例程序主要分为以下两类：
 - API 用法的简单示例，通常会输出一些确定的计算结果；
@@ -12,9 +12,9 @@ Taichi 的示例程序主要分为以下两类：
 
 接下来，我们将用两个具体的例子向大家介绍如何添加对这两类示例程序的测试。
 
-## 为示例程序 ![laplace](https://github.com/taichi-dev/taichi/blob/master/python/taichi/examples/algorithm/laplace.py)（有确定计算结果的例子）添加测试
+## 为示例程序 [laplace](https://github.com/taichi-dev/taichi/blob/master/python/taichi/examples/algorithm/laplace.py)（有确定计算结果的例子）添加测试
 
-（可参考 PR ![#3721](https://github.com/taichi-dev/taichi/pull/3721)）
+（可参考 PR [#3721](https://github.com/taichi-dev/taichi/pull/3721)）
 
 1. 将示例程序的具体执行部分包在 `main()` 函数内，使得前面的声明部分可以被单独 import：
 
@@ -63,9 +63,9 @@ def test_laplace():
         assert y[i, i + 1] == (4.0 if i % 3 == 1 else 0.0)
 ```
 
-## 为示例程序 ![mpm99](https://github.com/taichi-dev/taichi/blob/master/python/taichi/examples/simulation/mpm99.py)（依赖 GUI 进行可视化的例子）添加测试
+## 为示例程序 [mpm99](https://github.com/taichi-dev/taichi/blob/master/python/taichi/examples/simulation/mpm99.py)（依赖 GUI 进行可视化的例子）添加测试
 
-（可参考 PR ![#3995](https://github.com/taichi-dev/taichi/pull/3995)）
+（可参考 PR [#3995](https://github.com/taichi-dev/taichi/pull/3995)）
 
 1. 将示例程序的具体执行部分包在 `main()` 函数内，使得前面的声明部分可以被单独 import（同上一个示例）。
 
