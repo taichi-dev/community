@@ -70,7 +70,7 @@ Tags with [good first issue](https://github.com/taichi-dev/taichi/issues?q=is%3A
 
 ### **Others**
 
-- @[Trinkle23897](https://github.com/Trinkle23897) launched a fun project [**called Fast-Poisson-Image-Editing**](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) with Taichi extension. 
+- @[Trinkle23897](https://github.com/Trinkle23897) launched a fun project [**called Fast-Poisson-Image-Editing**](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) using Taichi as its extension. 
 
 ### **Blogs & upcoming events**
 * 2022/04/21 | Online | Meetup
