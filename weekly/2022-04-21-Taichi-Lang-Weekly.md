@@ -39,7 +39,7 @@ Taichi v1.0.0 was released on April 13, 2022. [Release Notes](https://github.com
 ### **Discussions**
 
 * [Opinions for deprecating Python 3.6 support](https://github.com/taichi-dev/taichi/discussions/4772)
-* [Some thoughts on optimizing your taichi kernels](https://github.com/taichi-dev/taichi/discussions/4784)
+* [Some thoughts on optimizing your Taichi kernels](https://github.com/taichi-dev/taichi/discussions/4784)
 * [What is the best practice for splitting `for` loops into multiple `ti.kernel`s?](https://github.com/taichi-dev/taichi/discussions/4520)
 * [Use MIR provide a basis to implement fast and lightweight interpreters and JITs](https://github.com/taichi-dev/taichi/discussions/4820)
 
