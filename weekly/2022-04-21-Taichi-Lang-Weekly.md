@@ -27,7 +27,7 @@ Taichi v1.0.0 was released on April 13, 2022. [Release Notes](https://github.com
 * **Misc**
     * [Bump version to v1.0.0](https://github.com/taichi-dev/taichi/pull/4763) 
 * **Others**
-    * [[example] Fix taichi_dynamic example](https://github.com/taichi-dev/taichi/pull/4767) 
+    * [[example] Fix Taichi_dynamic example](https://github.com/taichi-dev/taichi/pull/4767) 
     * [[example] Add diff sph demo](https://github.com/taichi-dev/taichi/pull/4769) 
     * [[vulkan] Fix Vulkan device score bug](https://github.com/taichi-dev/taichi/pull/4803)
     * [[gui] Expose VboHelpers class](https://github.com/taichi-dev/taichi/pull/4773)
@@ -70,7 +70,7 @@ Tags with [good first issue](https://github.com/taichi-dev/taichi/issues?q=is%3A
 
 ### **Others**
 
-- @[Trinkle23897](https://github.com/Trinkle23897) launched a toy project [**called Fast-Poisson-Image-Editing**](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) with Taichi extension. 
+- @[Trinkle23897](https://github.com/Trinkle23897) launched a fun project [**called Fast-Poisson-Image-Editing**](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) with Taichi extension. 
 
 ### **Blogs & upcoming events**
 * 2022/04/21 | Online | Meetup
