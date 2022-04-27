@@ -74,6 +74,6 @@ Tags with [good first issue](https://github.com/taichi-dev/taichi/issues?q=is%3A
 
 ### **Blogs & upcoming events**
 * 2022/04/21 | Online | Meetup
-    * [[Chinese] Taichi Open Office Hours](https://forum.taichi.graphics/t/0-taichi-open-office-hour/2537)
+    * [[Chinese] Taichi Open Office Hours](https://forum.taichi-lang.org/t/0-taichi-open-office-hour/2537)
 * 2022/03/09--2022/04/22 | Online | Hackathon 
     * [[Chinese] Taichi x PaddlePaddle Hackathon](https://github.com/taichi-dev/hackathons/issues/4)

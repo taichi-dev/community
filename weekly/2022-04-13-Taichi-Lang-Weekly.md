@@ -80,8 +80,8 @@ Tags with [good first issue](https://github.com/taichi-dev/taichi/issues?q=is%3A
 ### **Blogs & upcoming events**
 
 * 2022/03/26 | Tech Blogs 
-    * [Taichi & Torch 02: Data containers in Torch & Taichi](https://docs.taichi.graphics/blog/Taichi-torch-data-containers)
+    * [Taichi & Torch 02: Data containers in Torch & Taichi](https://docs.taichi-lang.org/blog/Taichi-torch-data-containers)
 * 2022/03/18 | Tech Blogs 
-    * [Taichi & Torch 01: Resemblances and Differences ](https://docs.taichi.graphics/blog/Taichi-torch-resemblances-differences)
+    * [Taichi & Torch 01: Resemblances and Differences ](https://docs.taichi-lang.org/blog/Taichi-torch-resemblances-differences)
 * 2022/03/09--2022/04/22 | Online | Hackathon 
     * [[Chinese] Taichi x PaddlePaddle Hackathon](https://github.com/taichi-dev/hackathons/issues/4)
