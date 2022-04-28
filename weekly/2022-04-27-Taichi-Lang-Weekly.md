@@ -14,11 +14,10 @@ Taichi-Lang Weekly is welcoming contribution from the community. If you spot any
     * [Add support for keyword arguments](https://github.com/taichi-dev/taichi/pull/4794)
     * [Support in-place operator of ti.Matrix in python scope](https://github.com/taichi-dev/taichi/pull/4799)
     * [Add 2D and 3D rotation functions to math module](https://github.com/taichi-dev/taichi/pull/4822) 
-
-* **Other**
     * [[Error] Show warning when serialize = True is set on a struct for](https://github.com/taichi-dev/taichi/pull/4844) 
     * [[SIMT] Add shfl_down_f32 intrinsic.](https://github.com/taichi-dev/taichi/pull/4819)
     * [[bug] Fix bug that building with TI_EXPORT_CORE:BOOL=ON failed](https://github.com/taichi-dev/taichi/pull/4850)
+* **Other**
     * [[CI] Use a new PAT with org permission](https://github.com/taichi-dev/taichi/pull/4826)
 
 ### **Find more tracking** [issues ](https://github.com/taichi-dev/taichi/issues?q=is:issue+is:open+)**&**[ PRs ](https://github.com/taichi-dev/taichi/pulls?q=is:pr+is:open+)
