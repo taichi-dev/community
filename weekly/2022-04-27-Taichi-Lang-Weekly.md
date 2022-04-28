@@ -15,8 +15,6 @@ Taichi-Lang Weekly is welcoming contribution from the community. If you spot any
     * [Support in-place operator of ti.Matrix in python scope](https://github.com/taichi-dev/taichi/pull/4799)
     * [Add 2D and 3D rotation functions to math module](https://github.com/taichi-dev/taichi/pull/4822) 
 
-* **Doc**
-    * [LLVM sparse runtime design doc](https://github.com/taichi-dev/taichi/pull/4790)
 * **CI**
     * [Use a new PAT with org permission](https://github.com/taichi-dev/taichi/pull/4826)
 * **Other**
