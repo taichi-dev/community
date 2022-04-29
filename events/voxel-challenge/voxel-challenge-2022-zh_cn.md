@@ -52,7 +52,7 @@ Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办�
   - 作品效果截图：作品截图请放在 README.md 的 Demo 标题下，图片格式尺寸统一为 1280 x 720
 - 提交位置：请在指定 [issue](https://github.com/taichi-dev/voxel-challenge/issues/11) 中，留言作品仓库  Repo 链接 + 作品截图，如图所示。
 
-![img](../media/submit.png)
+  <img src="../media/submit.png" width="50%"></img>
 
 **注：如投稿人提交多个作品，请分开留言。**
 
@@ -123,7 +123,7 @@ scene.set_background_color(color)
 
 所有人都可以在作品提交的 issue comment 中对喜爱的作品做出 reaction。GitHub 中共有 8 个 Reaction 可选。
 
-![img](../media/emoji.png)
+  <img src="../media/emoji.png" width="50%"></img>
 
 为了最大程度保证公平，具体哪一个 reaction 为有效计数将由组委会在投票开始后（5 月 19 日 10:00 UTC+8）公布。作品提交的 issue 和 Slack 群中也会同步告知。
 
@@ -141,7 +141,7 @@ scene.set_background_color(color)
 
 （如二维码失效，请在微信公众号太极图形中回复“创意大赛”获得最新入群码）
 
-![img](../media/wechat.jpeg)
+  <img src="../media/wechat.jpeg" width="30%"></img>
 
 ## Slack
 
