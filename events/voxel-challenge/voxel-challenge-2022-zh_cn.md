@@ -19,9 +19,15 @@ Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办�
 
 🏆 本次大赛设置了一二三等奖和设计师奖。其中一二三等将由社区投票选出。设计师奖将由大赛组委会选出。
 
-- 一二三等奖将分别获得乐高霍格沃滋天文塔、阿波罗 5 号、老友记套装。
+- 一等奖：任天堂 Switch 日版
+<img src="../media/switch.jpeg" width="45%"></img>
 
-<img src="../media/first.png" width="20%"></img> <img src="../media/second.png" width="20%"></img> <img src="../media/third.png" width="20%"></img>
+- 二等奖：Beats Fit Pro 降噪耳机
+<img src="../media/beats.jpeg" width="45%"></img>
+
+- 三等奖 X 2：乐高玩具
+
+<img src="../media/first.png" width="20%"></img> <img src="../media/second.png" width="20%"></img> 
 
 - 设计师奖：大赛组委会将根据投稿，选出适合做成周边的 5 个作品。每位获奖选手将收获一件印有自己作品图案的定制帆布包。
 
