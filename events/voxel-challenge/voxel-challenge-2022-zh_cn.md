@@ -125,7 +125,7 @@ scene.set_background_color(color)
 
 ![img](../media/emoji.png)
 
-为了最大程度保证公平，具体哪一个 reaction 为有效计数将由组委会在投票开始后（5 月 19 日 10:00 UTC+8）公布。作品提交的 issue 和 slack 群中也会同步告知。
+为了最大程度保证公平，具体哪一个 reaction 为有效计数将由组委会在投票开始后（5 月 19 日 10:00 UTC+8）公布。作品提交的 issue 和 Slack 群中也会同步告知。
 
 投票截止后将计算出票数最高的三个作品成为一二三等奖。
 
