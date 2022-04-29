@@ -20,9 +20,11 @@ Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办�
 🏆 本次大赛设置了一二三等奖和设计师奖。其中一二三等将由社区投票选出。设计师奖将由大赛组委会选出。
 
 - 一等奖：任天堂 Switch 日版
+
 <img src="../media/switch.jpeg" width="45%"></img>
 
 - 二等奖：Beats Fit Pro 降噪耳机
+
 <img src="../media/beats.jpeg" width="45%"></img>
 
 - 三等奖 X 2：乐高玩具
