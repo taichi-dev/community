@@ -327,7 +327,7 @@ scene.finish()
 
  Example 3 的效果图（如上图）
 
-## Voxel Challenge 博客投稿
+## 博客投稿
 
 欢迎大家将使用 Taichi 的过程写成博客分享给社区。投稿分享还可以获得 Taichi 周边水杯。优秀的博客也将有机会在太极官方账号进行传播~
 

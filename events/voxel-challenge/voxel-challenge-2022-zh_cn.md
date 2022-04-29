@@ -2,7 +2,7 @@
 
 # 大赛介绍
 
-Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办，参赛选手需要遵守比赛规则，使用 Voxel Editor 在 99 行代码之内发挥创意完成作品。
+Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办，参赛选手需要遵守比赛规则，使用 Voxel renderer 在 99 行代码之内发挥创意完成作品。
 
 这是太极社区第一次举办体素创意大赛，本届大赛主题不限。参赛作品可以是天马行空地想象，也可以是贴近生活的创作。欢迎打开脑洞卷创意！参赛者可以任意设置每个网格的颜色和材料（体素或光源），创造自己的 3D 小世界！
 
@@ -33,7 +33,7 @@ Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办�
 
 **特别福利：**
 
-- 投稿人大赛期间在社交媒体平台（朋友圈、推特等）发布带 #voxelchallenge tag 的推文，并@TaichiGraphics 即可额外获得自己作品定制的明信片。
+- 投稿人大赛期间在社交媒体平台（朋友圈、推特等）发布带 #voxelchallenge tag 的推文，并@TaichiGraphics 截图发给@开发者小助手，即可额外获得自己作品定制的明信片。
 - 赛中或赛后发布作品相关文章即可获得 Taichi 水杯一个。
 
 <img src="../media/cup.png" width="20%"></img><img src="../media/postcard.jpeg" width="40%"></img>
@@ -43,7 +43,7 @@ Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办�
 ## 作品提交
 
 - 建议提交作品的小伙伴先加入 [Slack Channel](#slack) 或 [微信群](#微信群) 及时获取大赛相关信息～
-- 记得将 Taichi 升级到 v1.0 版本，才可顺利使用 voxel renderr 哦
+- 记得将 Taichi 升级到 v1.0 版本，才可顺利使用 voxel renderer 哦
 
 - 提交内容：
   - 包含作品名称 + repo 链接 + 作品效果截图。
