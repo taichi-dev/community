@@ -27,7 +27,7 @@ Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办�
 
 ⭐️ 所有参赛者投稿成功即可获得 Voxel Challenge 周边礼包！礼包内容为 Voxel Challenge 定制 T-shirt 和口罩。
 
-<img src="../media/tshirt.png" width="50%"></img>
+<img src="../media/tshirt.png" width="50%"></img><img src="../media/mask.png" width="50%"></img>
 
 **特别福利：**
 
