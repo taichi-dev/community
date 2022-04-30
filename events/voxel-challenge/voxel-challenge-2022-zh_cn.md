@@ -113,7 +113,7 @@ scene.set_background_color(color)
 
 ![img](../media/axis.png)
 
-- 参赛作品必须符合社区行为规范 [COC](https://github.com/taichi-dev/taichi/blob/master/CODE_OF_CONDUCT.md)。不得包含政治、血腥暴力、成人内容、仇恨言论等违反适用法律、法规、政策、社会道德准则的内容。组委会有权拒绝其所认定可能存在前述情形的作品参赛。
+- 参赛作品必须符合社区行为规范 [COC](https://github.com/taichi-dev/taichi/blob/master/CODE_OF_CONDUCT.md)。不得包含政治、血腥暴力、成人内容、仇恨言论等违反适用法律、法规、政策、社会道德准的内容。组委会有权拒绝其所认定可能存在前述情形或有争议的作品参赛。
 
 - 参赛作品必须公开源代码且为作者原创，无知识产权争议。若参赛作品涉嫌抄袭或侵犯他人知识产权的情形，一律取消评奖资格，并由侵权方承担全部相关责任。
 
