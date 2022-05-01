@@ -146,19 +146,19 @@ Everyone from the Taichi Lang community is eligible to vote. The voting begins a
 
 ## Frequently Asked Questions
 
-### Q: Can I update my artwork after submission?
+### Can I update my artwork after submission?
 
 You can, so long as it is before the submission deadline (19th May). You may also want to update the screenshot if it is changed. 
 
-### Q: Can I submit more than one piece of voxel artwork?
+### Can I submit more than one piece of voxel artwork?
 
 You can. Simply submit your other entry by leaving a separate comment to the issue. Only use one GitHub repo to host all your voxel artwork. 
 
-### Q: Where could I post a blog about my artwork and how do I let you know?
+### Where could I post a blog about my artwork and how do I let you know?
 
 You can post your blog on [Medium](www.medium.com), [Reddit](https://www.reddit.com/), or any public platform. Send us the link to your blog through [Slack](https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg) or by mailing to: <community@taichi.graphics>.
 
-### Q: How do I keep up to date with the competition?
+### How do I keep up to date with the competition?
 
 All information about Voxel Challenge 2022 will be broadcasted with the hashtag **#voxel-challenge** in our [Slack channel](https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg). Welcome to join this channel for the latest news from the competition!
 
@@ -166,7 +166,7 @@ All information about Voxel Challenge 2022 will be broadcasted with the hashtag 
 
 - Each participant must guarantee the authorship and originality of his/her voxel artwork in the first place. 
 - Participants shall be accountable for the artwork they submit and it not infringe any third-party intellectual rights. If plagiarism or infringement is identified in their submissions, the participants will be disqualified immediately and shall bear all the consequences. 
-- By submitting their entries the participants agree to authorize the organizer to use their artwork in specific media outlets for promotion purposes.
+- By submitting their entries the participants agree to authorize the use of their artwork in specific media outlets for promotion purposes.
 - All entries must follow the [Code of Conduct of the Taichi Lang community](https://github.com/taichi-dev/taichi/blob/master/CODE_OF_CONDUCT.md).
 - The VCC reserves the right to reject disputable entries, and the committee reserves the right to the final interpretation of these terms and conditions. 
 
