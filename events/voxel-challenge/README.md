@@ -102,19 +102,24 @@ In this competition, the Taichi Lang community votes for the entries on GitHub. 
 
 | **FIRST PRIZE** *x1* | **SECOND PRIZE** *x1* | **THIRD PRIZE** *x2* |
 | :------------------: | :-------------------: | :------------------: |
-|   Nintendo Switch <img width=250/>   |  Beats Fit Pro <img width=250/>      |  LEGO toy  <img width=250/>         |
+|   Nintendo Switch <img width=250/>   |  Beats Fit Pro <img width=250/>      | One LEGO toy for each winner  <img width=250/>         |
+|   <img src="../media/switch.jpeg" width=250/></img>   |  <img src="../media/beats.jpeg" width=250/></img>      |  <img src="../media/first.png" width=125/></img> <img src="../media/second.png" width=125/></img> |
 
 |                  **Committee's Picks** *x5*                  |
 | :----------------------------------------------------------: |
 | Committee's Picks will receive a bag with a photoprint of their artwork.<img width=500/> |
+|  <img src="../media/canvas.png" width="40%"></img>|
+
 
 |                   **Contribution Awards**                    |
 | :----------------------------------------------------------: |
 | All participants will receive a tailor-made T-shirt and a box of tailor-made facial masks.<img width=400/> |
+|<img src="../media/tshirt.png" width="50%"></img><img src="../media/mask.png" width="50%"></img>|
 
 |                      **Special Gifts**                       |
 | :----------------------------------------------------------: |
 | <p>Participants who post their artwork on social media like Twitter will receive a tailor-made postcard with a photoprint of their artwork. Remember to tag us <b>@TaichiGraphics</b> with the hashtag <b>#voxelchallenge</b> in the post.</p><p>Participants who write a blog about their voxel entries will receive a tailor-made thermos cup.</p> |
+|<img src="../media/cup.png" width="20%"></img><img src="../media/postcard.jpeg" width="40%"></img>|
 
 ## How to Submit
 
