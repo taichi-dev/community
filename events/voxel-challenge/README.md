@@ -123,9 +123,13 @@ The participants can submit and update their voxel artwork from 29th April to 2:
 1. Create a repo for hosting your voxel artwork:
 
    1.1 Go to the [template repo](https://github.com/taichi-dev/voxel-challenge/).
+   
    1.2 Click the green **Use this template** button to copy your own new repo from the template repo.
+   
    1.3 Make your repo public. 
+   
    1.4 Update **main.py** (the source code) and **READNE.md** to your own version, ensuring that your work is in line with the [Terms and Conditions](#terms-and-conditions).
+   
    1.5 If you have more than one entries, save the corresponding source code in other **.py** files. 
 
 2. Submit your entry by leaving a comment to [this issue](https://github.com/taichi-dev/voxel-challenge/issues/11) with the following mandatory information:
