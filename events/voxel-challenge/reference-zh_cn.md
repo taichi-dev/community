@@ -103,7 +103,7 @@ def example():
 ```Python
 @ti.kernel
 def example():
-    ti.loop_config(serialized=True)
+    ti.loop_config(serialize=True)
     for i in range(100):  # top level but serialized
 ```
 
