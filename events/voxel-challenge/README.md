@@ -1,6 +1,6 @@
-#   UNLEASH CREATIVITY WITH VOXEL 2022
+#  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UNLEASH CREATIVITY WITH VOXEL 2022
 
-> ​      Opens: Friday 29th April 2022               |               Closes: Wednesday 25th May 2022
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opens: Friday 29th April 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Closes: Wednesday 25th May 2022
 
 ## Introduction
 
@@ -74,7 +74,7 @@ scene.set_background_color(color)
 - Each participants is given a 128x128x128 voxel grid: 
   - The x, y, or z coordinate of the voxel grid is in the range [-1, 1]; the size of each voxel is 1/64.
   - Note that the index of x, y, or z coordinate starts off from `-64` and ends at `63`. 
-- Save your code in **main.py**. The total number of code lines must not exceed 99; the number of characters in each line must not exceed 120.
+- The total number of your code lines must not exceed 99; the number of characters in each line must not exceed 120.
 
 ### Screen Capture
 
@@ -90,11 +90,11 @@ scene.set_background_color(color)
 
 | **Date** | **Description** |
 | ------------------- | ------------------------------------------------------------ |
-| **29th April 2022** | Day one. Submission of voxel artwork begins. |
-| **18th May 2022**   | The submission deadline is *2:00 AM PDT 18th May*. |
-| **18th May 2022**   | The community begins to vote from *7:00 PM PDT 18th May*. |
-| **24th May 2022**   | The voting deadline is *2:00 AM PDT 24th May*. |
-| **25th May 2022**   | The VCC announces the winning entries.         |
+|**29th April 2022**| Day one. Submission of voxel artwork begins. <img width=380/>|
+| **18th May 2022**  | The submission deadline is *2:00 AM PDT 18th May*. <img width=380/>|
+| **18th May 2022**  | The community begins to vote from *7:00 PM PDT 18th May*. <img width=380/>|
+| **24th May 2022**  | The voting deadline is *2:00 AM PDT 24th May*. <img width=380/>|
+| **25th May 2022**  | The VCC announces the winning entries.  <img width=380/>       |
 
 ## Prizes
 
@@ -102,15 +102,15 @@ In this competition, the Taichi Lang community votes for the entries on GitHub. 
 
 | **FIRST PRIZE** *x1* | **SECOND PRIZE** *x1* | **THIRD PRIZE** *x2* |
 | :------------------: | :-------------------: | :------------------: |
-| Nintendo Switch    | Beats Fit Pro       | LEGO toy           |
+|   Nintendo Switch <img width=250/>   |  Beats Fit Pro <img width=250/>      |  LEGO toy  <img width=250/>         |
 
 |                  **Committee's Picks** *x5*                  |
 | :----------------------------------------------------------: |
-| Committee's Picks receive a bag with a photoprint of their artwork. |
+| Committee's Picks will receive a bag with a photoprint of their artwork.<img width=500/> |
 
 |                   **Contribution Awards**                    |
 | :----------------------------------------------------------: |
-| All participants will receive a tailor-made T-shirt and a box of tailor-made facial masks. |
+| All participants will receive a tailor-made T-shirt and a box of tailor-made facial masks.<img width=400/> |
 
 |                      **Special Gifts**                       |
 | :----------------------------------------------------------: |
@@ -123,12 +123,10 @@ The participants can submit and update their voxel artwork from 29th April to 2:
 1. Create a repo for hosting your voxel artwork:
 
    1.1 Go to the [template repo](https://github.com/taichi-dev/voxel-challenge/).
-
    1.2 Click the green **Use this template** button to copy your own new repo from the template repo.
-
    1.3 Make your repo public. 
-
    1.4 Update **main.py** (the source code) and **READNE.md** to your own version, ensuring that your work is in line with the [Terms and Conditions](#terms-and-conditions).
+   1.5 If you have more than one entries, save the corresponding source code in other **.py** files. 
 
 2. Submit your entry by leaving a comment to [this issue](https://github.com/taichi-dev/voxel-challenge/issues/11) with the following mandatory information:
 
@@ -143,8 +141,6 @@ The participants can submit and update their voxel artwork from 29th April to 2:
 ## How to Vote 
 
 Everyone from the Taichi Lang community is eligible to vote. The voting begins at *18th May* and ends on *24th May*. You can respond to the entries that are to your liking with emoji. The VCC will release the emoji valid for the votes after the submission deadline.
-
-Anyone can respond with emoji in the comment artwork. The Committee will release the specific emoji as valid votes after May 19th. Please notice the notification in slack and the submission issue. 
 
 > **Tips**: Please join [our Slack channel](https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg) for any queries or to receive the latest news from Voxel Challenge 2022.
 
