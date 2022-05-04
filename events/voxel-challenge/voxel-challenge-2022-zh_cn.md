@@ -147,9 +147,11 @@ scene.set_background_color(color)
 
 ## 微信群
 
-（如二维码失效，请在微信公众号太极图形中回复“创意大赛”获得最新入群码）
+请添加开发者小助手 Alex 的微信，留言「创意大赛」，小助手会拉你进群~
 
-  <img src="../media/wechat.jpeg" width="30%"></img>
+  <img src="../media/wechat.png" width="30%"></img>
+
+开发者小助手 Alex 微信二维码 ↑
 
 ## Slack
 
