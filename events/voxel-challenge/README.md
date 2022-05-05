@@ -161,7 +161,7 @@ You can, so long as it is before the submission deadline (19th May). You may als
 
 ### Can I submit more than one piece of voxel artwork?
 
-You can. Simply submit your other entry by leaving a separate comment to the issue. Only use one GitHub repo to host all your voxel artwork. 
+You can. Simply submit your other entry by leaving a separate comment to [the issue](https://github.com/taichi-dev/voxel-challenge/issues/11). Only use one GitHub repo for hosting all your voxel artwork. 
 
 ### Where could I post a blog about my artwork and how do I let you know?
 
