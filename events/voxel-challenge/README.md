@@ -8,6 +8,14 @@ Taichi Lang is embedded in Python and therefore its renderers can run on any ope
 
 Voxel Challenge 2022 takes place from 29th April 2022 to 25th May 2022. The competition is for original, ingenious, and Taichi Lang-based voxel artworks. The idea is to unleash creativity, so the entries can be on any subject, in any style. The participants are required to complete their voxel entries within 99 lines of Taichi Lang code and submit them before the submission deadline. The Taichi Lang community votes for the winner and runners-up, and the Voxel Challenge Committee (VCC) selects from all entries five Committee's Picks. 
 
+## Demo Artworks
+
+<a href="https://github.com/raybobo/taichi-voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/city.jpg" width="25%"></img></a>  <a href="https://github.com/victoriacity/voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/city2.jpg" width="25%"></img></a> 
+<a href="https://github.com/yuanming-hu/voxel-art"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/tree2.jpg" width="25%"></img></a> <a href="https://github.com/neozhaoliang/voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/desktop.jpg" width="25%"></img></a> 
+<a href="https://github.com/maajor/maajor-voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/earring_girl.jpg" width="25%"></img></a>  <a href="https://github.com/rexwangcc/taichi-voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/pika.jpg" width="25%"></img></a> 
+<a href="https://github.com/houkensjtu/qbao_voxel_art"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/yinyang.jpg" width="25%"></img></a>  <a href="https://github.com/ltt1598/voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/lang.jpg" width="25%"></img></a> 
+
+
 ## Challenge
 
 The participants of Voxel Challenge 2022 are required to come up with original, inspiring voxel artworks in less than 99 lines of Taichi Lang code. The participants can decide freely on the topics, styles, and material (voxel or light source) to use, so long as their entries are in line with the competition's [Terms and Conditions](#terms-and-conditions). 
