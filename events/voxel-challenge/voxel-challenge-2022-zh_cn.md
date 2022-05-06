@@ -57,7 +57,7 @@ Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办�
 ## 作品提交
 
 - 建议提交作品的小伙伴先加入 [Slack Channel](#slack) 或 [微信群](#微信群) 及时获取大赛相关信息～
-- 记得将 Taichi 升级到 v1.0 版本，才可顺利使用 voxel renderer 哦
+- 记得将 Taichi 升级到 v1.0.0 版本，v1.0.1 在某些环境上有些 Vulkan 兼容性的问题。低于 1.0.0 版本也不能使用 voxel renderer~
 
 - 提交内容：
   - 包含作品名称 + repo 链接 + 作品效果截图。
