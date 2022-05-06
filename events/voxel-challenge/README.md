@@ -20,6 +20,8 @@ Voxel Challenge 2022 takes place from 29th April 2022 to 25th May 2022. The comp
 
 The participants of Voxel Challenge 2022 are required to come up with original, inspiring voxel artworks in less than 99 lines of Taichi Lang code. The participants can decide freely on the topics, styles, and material (voxel or light source) to use, so long as their entries are in line with the competition's [Terms and Conditions](#terms-and-conditions). 
 
+**Notice: Voxel Editor should be run under Taichi v1.0.0. The error will occur when upgrade to v1.0.1. Related [issue](https://github.com/taichi-dev/taichi/issues/4891) will be fixed in next version.**
+
 ### Submission Criteria
 
 - The submission deadline is *2:00 AM PDT 18th May 2022*. Submissions sent after this deadline will not be considered. 
