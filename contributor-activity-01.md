@@ -137,4 +137,4 @@ if __name__ == '__main__':
 
 ## 附录
 
-[Taichi 贡献者指南](https://docs.taichi.graphics/lang/articles/contribution/contributor_guide)
+[Taichi 贡献者指南](https://docs.taichi.graphics/docs/contribution/contributor_guide)
