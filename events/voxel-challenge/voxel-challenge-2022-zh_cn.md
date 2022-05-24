@@ -1,5 +1,21 @@
 # Taichi Voxel Challenge 2022
 
+# 获奖情况
+
+| 奖项 <img width=300/>     | 获奖项目 <img width=300/>                           | 作者  <img width=300/>         | 作品  <img width=800/>                                            |
+| ---------- | ----------------------------------- | --------------- | -------------------------------------------------- |
+| 一等奖     | Half-Broken                       | SuperSodaSea    | <img src="../media/Half-Broken.jpg" width=200/></img> |
+| 二等奖     | Another World                       | Peng-bo         | <img src="../media/world.jpg" width=200></img> |
+| 三等奖     | Magic Cube                          | Memorylt        | <img src="../media/cube.jpg" width=200mg>   |
+| 三等奖     | Tiny Jinja                          | 0xrabbyte       | <img src="../media/jinja.jpg" width=200mg>  |
+| 三等奖     | Little Night Lamp                   | ying-lei        | <img src="../media/lamp.jpg" width=200/></img> |
+| 设计师奖   | Mario Theme                         | caiiy           | <img src="../media/mario.jpg" width=200/></img> |
+| 设计师奖   | Potted Tree                         | Evil-Ryu        | <img src="../media/tree.jpg" width=200mg>   |
+| 设计师奖   | Tiny White Boat & Giant Yellow Duck | Ricahrd-Li      | <img src="../media/duck.jpg" width=200></img> |
+| 设计师奖   | a little red flower                 | zhangxianggis   | <img src="../media/flower.jpg" width=200></img> |
+| 设计师奖   | Overhead Chicken                    | Xlhaw           | <img src="../media/chicken.jpg" width=200></img> |
+| 最佳人气奖 | Thumbs up to Taichi Guys            | lotinosemiusomu | <img src="../media/thumbs.jpg" width=200></img> |
+
 # 大赛介绍
 
 Taichi Voxel Challenge 2022（体素创意大赛）由 Taichi Lang 社区主办，参赛选手需要遵守比赛规则，使用 Voxel renderer 在 99 行代码之内发挥创意完成作品。
