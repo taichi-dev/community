@@ -14,4 +14,3 @@
 | Committee's Pick     | [Overhead Chicken](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1127009876)                    | Xlhaw           | <img src="https://user-images.githubusercontent.com/28912944/168490824-29854df0-1c25-4575-b551-807ffe7afe45.png"> |
 | Favorite Entry | [Thumbs up to Taichi Guys](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1128776985)            | lotinosemiusomu | <img src="https://user-images.githubusercontent.com/105546055/168804427-1e653d2b-0882-4b10-ad05-1bbd76411224.jpg" > |
 
-See you next Time!
