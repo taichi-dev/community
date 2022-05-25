@@ -12,6 +12,6 @@
 | Committee's Pick     | [Tiny White Boat & Giant Yellow Duck](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1126899981) | Ricahrd-Li      | <img src="https://user-images.githubusercontent.com/47491676/168467305-68160677-6038-4e1d-8f5a-a56a2265bc0d.jpg" > |
 | Committee's Pick     | [a little red flower](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1126975334)                 | zhangxianggis   | <img src="https://user-images.githubusercontent.com/10293779/168483636-be34607c-5414-4fc4-9156-ae14ce8cd2ef.jpg" > |
 | Committee's Pick     | [Overhead Chicken](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1127009876)                    | Xlhaw           | <img src="https://user-images.githubusercontent.com/28912944/168490824-29854df0-1c25-4575-b551-807ffe7afe45.png"> |
-| Best Popularity | [Thumbs up to Taichi Guys](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1128776985)            | lotinosemiusomu | <img src="https://user-images.githubusercontent.com/105546055/168804427-1e653d2b-0882-4b10-ad05-1bbd76411224.jpg" > |
+| Favorite Entry | [Thumbs up to Taichi Guys](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1128776985)            | lotinosemiusomu | <img src="https://user-images.githubusercontent.com/105546055/168804427-1e653d2b-0882-4b10-ad05-1bbd76411224.jpg" > |
 
 See you next Time!
