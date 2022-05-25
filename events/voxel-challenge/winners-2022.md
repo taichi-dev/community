@@ -1,4 +1,4 @@
-# The name list of the winners in Taichi Voxel challenge 2022
+# Winners of Taichi Voxel challenge 2022
 
 |Prize <img width=300/>     | Artwork Name<img width=300/>                           |Author  <img width=300/>         | Artwork  <img width=800/>                                            |
 | ---------- | ----------------------------------- | --------------- | -------------------------------------------------- |
