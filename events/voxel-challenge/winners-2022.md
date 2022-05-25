@@ -1,0 +1,17 @@
+# The name list of the winners in Taichi Voxel challenge 2022
+
+|Prize <img width=300/>     | Artwork Name<img width=300/>                           |Author  <img width=300/>         | Artwork  <img width=800/>                                            |
+| ---------- | ----------------------------------- | --------------- | -------------------------------------------------- |
+|     First Prize     | [Half-Broken](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1129623196)                       | SuperSodaSea    | <img src="https://raw.githubusercontent.com/SuperSodaSea/voxel-challenge-alpha/main/half_broken.jpg" >|
+|     Second Prize     | [Another World](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1129544558)                       | Peng-bo         | <img src="https://user-images.githubusercontent.com/13476260/168955511-83b8ee38-a616-47c4-a880-1eb39d47ede7.jpg" >|
+|    Third Prize     | [Magic Cube](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1121367246)                          | Memorylt        | <img src="https://user-images.githubusercontent.com/95413219/167455557-c68e56d3-aee8-4c4b-91e6-36f72a9fd023.jpg">   |
+|     Third Prize    | [Tiny Jinja](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1114682879)                          | 0xrabbyte       | <img src="https://camo.githubusercontent.com/f679e5930c9f5b8855d1951ed88b011997b1213afcd594311afbbf38f2d078c2/68747470733a2f2f73322e6c6f6c692e6e65742f323032322f30352f30322f78314a7035415a434b5461585038442e6a7067">  |
+|     Third Prize | [Little Night Lamp](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1128607967)                   | ying-lei        | <img src="https://user-images.githubusercontent.com/6155447/168772959-4ee275a0-4a67-4fa2-bc75-7473ed7da01c.jpg"> |
+| Committee's Pick   | [Mario Theme](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1120215816)                         | caiiy           | <img src="https://user-images.githubusercontent.com/62012000/167257414-d2f1ef71-4947-469c-9616-e66063eabc5f.jpg"> |
+| Committee's Pick     |[Potted Tree](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1120155575)                         | Evil-Ryu        | <img src="https://user-images.githubusercontent.com/5989112/167243838-935db835-298b-4b06-9a26-e46906a0505d.jpg" >  |
+| Committee's Pick     | [Tiny White Boat & Giant Yellow Duck](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1126899981) | Ricahrd-Li      | <img src="https://user-images.githubusercontent.com/47491676/168467305-68160677-6038-4e1d-8f5a-a56a2265bc0d.jpg" > |
+| Committee's Pick     | [a little red flower](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1126975334)                 | zhangxianggis   | <img src="https://user-images.githubusercontent.com/10293779/168483636-be34607c-5414-4fc4-9156-ae14ce8cd2ef.jpg" > |
+| Committee's Pick     | [Overhead Chicken](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1127009876)                    | Xlhaw           | <img src="https://user-images.githubusercontent.com/28912944/168490824-29854df0-1c25-4575-b551-807ffe7afe45.png"> |
+| Best Popularity | [Thumbs up to Taichi Guys](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1128776985)            | lotinosemiusomu | <img src="https://user-images.githubusercontent.com/105546055/168804427-1e653d2b-0882-4b10-ad05-1bbd76411224.jpg" > |
+
+See you next Time!
