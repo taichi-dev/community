@@ -1,5 +1,7 @@
 # Taichi Voxel Challenge 2022
 
+Voxel Challenge 2022 已经结束了，请所有参赛选手填写此 [表单](https://www.wjx.top/vj/rD6crYS.aspx) 获得我们的周边哦~
+
 # 获奖情况
 
 | 奖项 <img width=300/>     | 获奖项目 <img width=300/>                           | 作者  <img width=300/>         | 作品  <img width=800/>                                            |
