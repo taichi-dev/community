@@ -1,6 +1,6 @@
 # Winners of Taichi Voxel challenge 2022
 
-|Prize <img width=300/>     | Artwork Name<img width=300/>                           |Author  <img width=300/>         | Artwork  <img width=800/>                                            |
+|Prize <img width=300/>     | Entry name<img width=300/>                           |Entrant  <img width=300/>         | Entry  <img width=800/>                                            |
 | ---------- | ----------------------------------- | --------------- | -------------------------------------------------- |
 |     First Prize     | [Half-Broken](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1129623196)                       | SuperSodaSea    | <img src="https://raw.githubusercontent.com/SuperSodaSea/voxel-challenge-alpha/main/half_broken.jpg" >|
 |     Second Prize     | [Another World](https://github.com/taichi-dev/voxel-challenge/issues/11#issuecomment-1129544558)                       | Peng-bo         | <img src="https://user-images.githubusercontent.com/13476260/168955511-83b8ee38-a616-47c4-a880-1eb39d47ede7.jpg" >|
