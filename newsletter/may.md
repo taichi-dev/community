@@ -20,7 +20,7 @@ Hi there, welcome to our first issue of the newsletter! Here's what's been going
 
   *From 'Backlog' to 'In Progress', all you need to know about the development status of Taichi Lang is at its Kanban* *[here](https://github.com/orgs/taichi-dev/projects/1)*. 
 
-<img src="./events/media/kanban.png" width=1000/></img> 
+<img src="../events/media/kanban.png" width=1000/></img> 
 
 ##  🗓️Events
 
@@ -36,19 +36,19 @@ Hi there, welcome to our first issue of the newsletter! Here's what's been going
 
 **Half-broken** *by* *[SuperSodaSea](https://github.com/SuperSodaSea)*
 
-<img src="./events/media/world.jpg" width=500/></img> 
+<img src="../events/media/world.jpg" width=500/></img> 
 
 **Another world** *by* *[peng-bo](https://github.com/peng-bo)*
 
-<img src="./events/media/cube.jpg" width=500/></img> 
+<img src="../events/media/cube.jpg" width=500/></img> 
 
 **Magic cube** *by* *[MemoryIt](https://github.com/MemoryIt)*
 
-<img src="./events/media/jinja.jpg" width=500/></img> 
+<img src="../events/media/jinja.jpg" width=500/></img> 
 
 **Tiny Jinja** *by* *[0xrabbyte](https://github.com/0xrabbyte)*
 
-<img src="./events/media/lamp.jpg" width=500/></img> 
+<img src="../events/media/lamp.jpg" width=500/></img> 
 
 **Little night lamp** *by* *[ying-lei](https://github.com/ying-lei)* 
 
@@ -78,11 +78,11 @@ Hi there, welcome to our first issue of the newsletter! Here's what's been going
 
   *Want to try it out and be featured in a future newsletter? Taichi is just one command line away! 👉* `pip install taichi 1.0.2`
 
-<img src="./events/media/single.png" width=500/></img> 
+<img src="../events/media/single.png" width=500/></img> 
 
 **Flow field around a single cylindrical obstacle**
 
-<img src="./events/media/multiple.png" width=500/></img> 
+<img src="../events/media/multiple.png" width=500/></img> 
 
 **Flow field around multiple cylindrical obstacles**
 
