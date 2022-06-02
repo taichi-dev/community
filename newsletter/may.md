@@ -32,7 +32,7 @@ Hi there, welcome to our first issue of the newsletter! Here's what's been going
 
   *Take a look at the final list* *[here](https://bit.ly/3Q8qUEn)**, and we are sure you will be inspired!*
 
-<img src="./events/media/Half-Broken.jpg" width=500/></img> 
+<img src="../events/media/Half-Broken.jpg" width=500/></img> 
 
 **Half-broken** *by* *[SuperSodaSea](https://github.com/SuperSodaSea)*
 
