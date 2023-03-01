@@ -7,34 +7,36 @@ This is the beginning of joining the contributing to Taichi Community, give talk
 ## Communicating
 
 You can reach out the community by the following ways:
+
 - [**Discord**](https://discord.com/invite/f25GRdXRfg)
 
-    Join our Discord channel to meet the Taichi developers and peer users/contributors, and chat about anything related to Taichi.
-
-- [**Forum-EN**](https://github.com/taichi-dev/taichi/discussions) and [**Forum-ZH**](https://forum.taichi-lang.cn/)
+Join our Discord channel to meet the Taichi developers and peer users/contributors, and chat about anything related to Taichi.
     
-    In the Taichi forum, you can raise questions about using Taichi, share learning experiences with Taichi and showcase.
+- [**Forum-EN**](https://github.com/taichi-dev/taichi/discussions) and [**Forum-ZH**](https://forum.taichi-lang.cn/)
+
+In the Taichi forum, you can raise questions about using Taichi, share learning experiences with Taichi and showcase.
 
 - [**Wechat group**](https://forum.taichi-lang.cn/t/topic/2884)
 
-    Please follow the instruction and join wechat group for numerical simulation, Graphics, Taichi NeRF and etc.
+Please follow the instruction and join wechat group for numerical simulation, Graphics, Taichi NeRF and etc.
+
 - [**Twitter**](https://twitter.com/taichi_lang)
 
-    Follow us @taichi_lang on Twitter to get informed of the latest events, classy demos, and inspiring projects.
-- [**YouTube**](https://www.youtube.com/channel/UCu-k1Wglo9Ll_o2j5Bxl4cw)
+Follow us @taichi_lang on Twitter to get informed of the latest events, classy demos, and inspiring projects.
+- [**YouTube**](https://www.youtube.com/channel/UCu-k1Wglo9Ll_o2j5Bxl4cw) 
 
-    Subscribe to Taichi's YouTube channel for useful tutorials and impressive demos.
+Subscribe to Taichi's YouTube channel for useful tutorials and impressive demos.
 - [**Reddit**](https://www.reddit.com/r/taichi_lang/)
 - [**Blog**](https://docs.taichi-lang.org/blog)
 
 
 ## Events
 
-Taichi community has held multiple community events, covering technical sharing like meetup, TaichiCon and fun competitions like Hackathon, Voxel challenge. These are suitable for community members at different levels. For details, please see: [insert link].
+Taichi community has held multiple community events, covering technical sharing like meetup, TaichiCon and fun competitions like Hackathon, Voxel challenge. These are suitable for community members at different levels. For details, please see [Events](events/README.md).
 
 ## Contribute
 
-Thank you for your interest in contributing to Taichi. Before getting started, please read the [Contribution Guidlines](https://docs.taichi-lang.org/docs/contributor_guide) and [Code of Conduct](https://github.com/taichi-dev/taichi/blob/master/CODE_OF_CONDUCT.md). If you want to find some issue to work on, please check the "welcome contribution" label on [issues](https://github.com/taichi-dev/taichi/issues?q=is%3Aopen+is%3Aissue+label%3A%22welcome+contribution%22). Join our [Discord](https://discord.com/invite/f25GRdXRfg) channel to discuss with the developers is also recommded before submitting a PR. 
+Thank you for your interest in contributing to Taichi. Before getting started, please read the [Contribution Guidlines](https://docs.taichi-lang.org/docs/contributor_guide) and [Code of Conduct](https://github.com/taichi-dev/taichi/blob/master/CODE_OF_CONDUCT.md). If you want to find some issue to work on, please check the "welcome contribution" label on [issues](https://github.com/taichi-dev/taichi/issues?q=is%3Aopen+is%3Aissue+label%3A%22welcome+contribution%22). Join our [Discord](https://discord.com/invite/f25GRdXRfg) channel to discuss with the developers is also recommended before submitting a PR. 
  
 The [Contribution Guidelines](https://docs.taichi-lang.org/docs/contributor_guide) provide detailed instructions including:
 

@@ -10,7 +10,7 @@ Our meetups are designed to encourage communication and collaboration between de
 
 Hackathon
 Hackathon is a great way to showcase your skills and creativity while working with Taichi. Participants work in teams to solve real-world problems using Taichi. The hackathon provides a unique opportunity to learn from other participants and work with leading experts in the field.
-- [Taichi Hackathon 2022]()
+- [Taichi Hackathon 2022](http://www.taichi-hackathon.com/)
 
 
 TaichiCon
@@ -19,6 +19,6 @@ TaichiCon is the annual conference of Taichi, which brings together senior engin
 
 Voxel Challenge
 The competition is for original, ingenious, and Taichi Lang-based voxel artworks. The idea is to unleash creativity, so the entries can be on any subject, in any style. The participants are required to complete their voxel entries with Taichi Lang code and submit them before the submission deadline. 
-- [Voxel challenge 2022]()
+- [Voxel challenge 2022](archived/voxel-challenge-2022/README.md)
 
 We're committed to fostering a vibrant and supportive community of developers and users, and we believe that our community events are an important part of that effort. We encourage you to participate in our events, share your knowledge, and connect with others in the community. Stay tuned for updates on upcoming events, and don't hesitate to reach out to us if you have any questions or suggestions.
